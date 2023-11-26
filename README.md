@@ -54,8 +54,8 @@
 
 ## Output:
 ![image](https://github.com/nkishore2210/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118707090/757ad5e2-31af-47ae-b0cf-4ae8c50a4c09)
-### Name: MANO KARTHICK S
-### Register Number: 212222230077
+### Name: KISHORE N
+### Register Number: 212222240049
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
